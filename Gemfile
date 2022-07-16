@@ -15,7 +15,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'nokogiri', '1.13.7', :platform => 'x86_64-darwin'
+    gem 'nokogiri', '1.13.7', :platform => 'ruby'
 end
 group :other_plugins do
     gem 'httparty'
