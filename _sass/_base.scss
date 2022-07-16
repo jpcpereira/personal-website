@@ -22,7 +22,7 @@ table {
 }
 
 a, table.table a {
-  color: var(--global-theme-color);
+  color: #b17d3a;
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -174,7 +174,7 @@ blockquote {
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
-      font-weight: bolder;
+      font-weight: 900;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
