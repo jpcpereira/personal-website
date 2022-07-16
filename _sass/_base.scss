@@ -109,7 +109,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 35%;
+    width: 30%;
     .address {
       p { display: block; }
     }
@@ -186,12 +186,12 @@ blockquote {
     font-size: 1.7rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-icon-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-icon-hover-color);
         }
       }
     }
@@ -251,12 +251,12 @@ blockquote {
     font-size: 4rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-icon-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-icon-hover-color);
         }
       }
     }
