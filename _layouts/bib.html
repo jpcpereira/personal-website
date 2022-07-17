@@ -24,7 +24,7 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">{{entry.title}} {% if entry.citation_count_index %} &nbsp; <span class="badge citation-count"><i class="ai ai-google-scholar"></i>  <b>{{site.data.scholar[entry.citation_count_index]}}</b> citations</span>{% else %}{% endif %}</div>
           <!-- Author -->
           <div class="author">
           {% assign author_array_size = entry.author_array | size %}
