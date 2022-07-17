@@ -15,7 +15,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'open-uri'
     gem 'nokogiri', '1.13.7', :platform => 'ruby'
 end
 group :other_plugins do
