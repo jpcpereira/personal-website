@@ -492,7 +492,9 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+        border-radius: $project-card-border-radius;
       }
+
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
