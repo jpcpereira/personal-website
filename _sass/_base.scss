@@ -64,9 +64,12 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  border-radius: $project-card-border-radius;
 
   img {
     width: 100%;
+    border-top-left-radius: $project-card-border-radius;
+    border-top-right-radius: $project-card-border-radius;
   }
 
   .card-title {
