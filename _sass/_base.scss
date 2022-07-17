@@ -71,6 +71,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: large;
   }
 
   .card-item {
@@ -429,6 +430,11 @@ footer.sticky-bottom {
       display: flex;
       align-items: center;
     }
+  }
+
+  .company-logo {
+    width: 70%;
+    margin: 0 auto;
   }
 
   .grid-sizer, .grid-item {

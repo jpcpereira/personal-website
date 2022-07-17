@@ -1,21 +1,19 @@
 ---
 ---
 
-@string{ieee = {IEEE,}}
+@string{ieee = {IEEE}}
 
-@article{pereiraICMLA,
-  abbr={ICMLA},
-  title={Unsupervised Anomaly Detection in Energy Time Series Data Using Variational Recurrent Autoencoders with Attention},
+@inproceedings{Pereira2018ICMLA,
   author={Pereira, João and Silveira, Margarida},
+  booktitle={2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)}, 
+  title={Unsupervised Anomaly Detection in Energy Time Series Data Using Variational Recurrent Autoencoders with Attention}, 
   abstract={In the age of big data, time series are being generated in massive amounts. In the energy field, smart grids are enabling a unprecedented data acquisition with the integration of sensors and smart devices. In the context of renewable energies, there has been an increasing interest in solar photovoltaic energy generation. These installations are often integrated with smart sensors that measure the energy production. Such amount of data collected makes the quest for developing smart monitoring systems that can detect anomalous behaviour in these systems, trigger alerts and enable maintenance operations. In this paper, we propose a generic, unsupervised and scalable framework for anomaly detection in time series data, based on a variational recurrent autoencoder. Furthermore, we introduce attention in the model, by means of a variational self-attention mechanism (VSAM), to improve the performance of the encoding-decoding process. Afterwards, we perform anomaly detection based on the probabilistic reconstruction scores provided by our model. Our results on solar energy generation time series show the ability of the proposed approach to detect anomalous behaviour in time series data, while providing structured and expressive representations. Since it does not need labels to be trained, our methodology enables new applications for anomaly detection in energy time series data and beyond.},
-  journal={17th IEEE International Conference on Machine Learning and Applications (ICMLA),},
-  volume={},
-  issue={},
-  pages={},
-  numpages={},
   year={2018},
   month={Dec},
   publisher=ieee,
+  volume={},
+  number={},
+  pages={1275-1282},
   doi={10.1109/ICMLA.2018.00207},
   url={https://ieeexplore.ieee.org/document/8614232},
   html={https://ieeexplore.ieee.org/document/8614232},
@@ -26,10 +24,9 @@
   bibtex_show={true}
 }
 
-@article{pereiraBIGCOMP,
-  abbr={BigComp},
-  title={Learning Representations from Healthcare Time Series Data for Unsupervised Anomaly Detection},
+@inproceedings{Pereira2019BigComp,
   author={Pereira, João and Silveira, Margarida},
+  booktitle={2019 IEEE International Conference on Big Data and Smart Computing (BigComp)},
   abstract={The amount of time series data generated in Healthcare is growing very fast and so is the need for methods that
     can analyse these data, detect anomalies and provide meaningful
     insights. However, most of the data available is unlabelled and,
@@ -49,14 +46,13 @@
     while providing structured and expressive data representations.
     Furthermore, our approach outperforms previous supervised and
     unsupervised methods on this dataset.},
-  journal={IEEE International Conference on Big Data and Smart Computing (BigComp'19),},
-  volume={},
-  issue={},
-  pages={},
-  numpages={},
+  title={Learning Representations from Healthcare Time Series Data for Unsupervised Anomaly Detection}, 
   year={2019},
-  month={},
+  month={Feb},
   publisher=ieee,
+  volume={},
+  number={},
+  pages={1-7},
   doi={10.1109/BIGCOMP.2019.8679157},
   url={https://ieeexplore.ieee.org/document/8679157},
   html={https://ieeexplore.ieee.org/document/8679157},
@@ -67,8 +63,7 @@
   bibtex_show={true}
 }
 
-@article{pereiraMSCTHESIS,
-  abbr={MSc Thesis},
+@mastersthesis{Pereira2018MScThesis,
   title={Unsupervised Anomaly Detection in Time Series Data Using Deep Learning},
   author={Pereira, João},
   abstract={Detecting anomalies in time series data is an important task in areas such as energy, healthcare
@@ -84,14 +79,9 @@
     process. The results on solar energy generation and electrocardiogram time series data show the ability of
     the proposed model to detect anomalous patterns in time series from different fields of application, while
     providing structured and expressive data representations.},
-  volume={},
-  issue={},
-  pages={},
-  numpages={},
   year={2018},
   month={Nov},
-  journal={Instituto Superior Técnico, University of Lisbon,},
-  publisher={Instituto Superior Técnico, University of Lisbon,},
+  institution={Instituto Superior Técnico, University of Lisbon},
   pdf={mscthesis.pdf},
   slides={mscthesispresentation.pdf},
   preview={thesiscover.jpg},
@@ -99,8 +89,7 @@
 }
 
 @article{pereiraIJDMB,
-  abbr={IJDMB},
-  title={Unsupervised representation learning and anomaly detection in ECG sequences},
+  title={Unsupervised Representation Learning and Anomaly Detection in ECG Sequences},
   journal={International Journal of Data Mining and Bioinformatics,},
   author={Pereira, João and Silveira, Margarida},
   abstract={While the big data revolution takes place, large amounts of electronic
@@ -125,28 +114,28 @@
     both supervised and unsupervised methods.},
   volume={22},
   number={4},
-  pages={},
+  pages={389-407},
   numpages={},
-  year={2018},
-  month={Nov},
-  publisher={Inderscience Publishers,},
+  year={2019},
+  month={Aug},
+  issn={1748-5673},
+  keywords={deep learning, representation learning, data mining, bioinformatics, variational autoencoders, recurrent neural networks, time series, anomaly detection, clustering, healthcare, electrocardiogram, unsupervised learning},
+  publisher={Inderscience Publishers},
   pdf={preprint_IJDMB.pdf},
   preview={heartbeat.jpg},
   bibtex_show={true}
 }
 
-@article{pereiraENGDTHESIS,
-  abbr={EngD Thesis},
-  title={FIOD Image Intelligence: An Application for Large-Scale Object Detection and Analysis},
-  author={Pereira, João},
-  year={2021},
-  month={Jan},
-  note={Permanently Confidential.},
-  journal={Eindhoven University of Technology,},
-  publisher={Eindhoven University of Technology,},
-  html={https://research.tue.nl/nl/publications/fiod-image-intelligence-an-application-for-large-scale-object-det},
-  preview={app_detector.jpg},
-  selected={true},
-  bibtex_show={true}
+@phdthesis{Pereira2021EngDThesis,
+    title       = {FIOD Image Intelligence: An Application for Large-Scale Object Detection and Analysis},
+    institution = {Eindhoven University of Technology},
+    author      = {Pereira, João},
+    year        = {2021},
+    type        = {{EngD} thesis},
+    note        = {Permanently Confidential.},
+    html        = {https://research.tue.nl/nl/publications/fiod-image-intelligence-an-application-for-large-scale-object-det},
+    preview     = {app_detector.jpg},
+    selected    = {true},
+    bibtex_show = {true}
 }
 
