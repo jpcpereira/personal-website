@@ -140,6 +140,8 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -171,9 +173,12 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
+    padding-top: 16px;
+    padding-bottom: 16px;
     color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
+      background-color: rgb(171, 189, 201);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
@@ -182,6 +187,7 @@ blockquote {
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
+        background-color:  rgb(171, 189, 201);
       }
   }
   .navbar-brand.social {
