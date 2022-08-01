@@ -5,7 +5,7 @@ description: At MV/LV power substations.
 img: assets/img/substation.jpeg
 company_logo: assets/img/company_logos/edp.png
 importance: 5
-category: EngD
+category: Internship
 ---
 
 <div class="row justify-content-sm-center">
