@@ -3,7 +3,7 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: rgb(215, 220, 223);
+  --global-bg-color: rgb(206, 221, 228);
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #0F0D0A;
   --global-text-color-light: #{$grey-color};
@@ -23,7 +23,7 @@
   }
   .fa-moon {
     padding-left: 10px;
-    padding-top: 12px;
+    padding-top: 20px;
     display : block;
   }
 }
@@ -46,8 +46,8 @@ html[data-theme='dark'] {
 
   .fa-sun {
     padding-left: 10px;
-    padding-top: 12px;
-    display : block;
+    padding-top: 20px;
+    display: block;
   }
   .fa-moon {
     display : none;
