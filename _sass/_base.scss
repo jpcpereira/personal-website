@@ -357,6 +357,9 @@ footer.sticky-bottom {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
+  img {
+    max-width: 20vw;
+  }
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
