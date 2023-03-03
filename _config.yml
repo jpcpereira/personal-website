@@ -59,7 +59,7 @@ twitter_username: # your Twitter handle
 linkedin_username: jpcpereira # your LinkedIn user name
 scholar_userid: WCiItYkAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: joao.pereira.abt # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -104,6 +104,8 @@ disqus_shortname: joao-pereira-pt # put your disqus shortname
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@joao.pereira.abt/feed
 
 # -----------------------------------------------------------------------------
 # Collections
