@@ -10,12 +10,6 @@ ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en  
 ENV LC_ALL en_US.UTF-8  
 
-RUN --mount=type=secret,id=DOCKER_USERNAME \
-  --mount=type=secret,id=DOCKER_PASSWORD \
-   export DOCKER_USERNAME=$(cat /run/secrets/DOCKER_USERNAME) && \
-   export DOCKER_PASSWORD=$(cat /run/secrets/DOCKER_PASSWORD) && \
-   yarn gen
-
 # add ruby and jekyll
 RUN apt-get install --no-install-recommends ruby-full build-essential zlib1g-dev -y 
 RUN apt-get install imagemagick -y 

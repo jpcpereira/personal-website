@@ -1,7 +1,25 @@
 ---
 layout: post
 date: 2023-03-20 15:59:00-0400
-inline: true
+title: I was in the AWS weekly series <i>Build on Generative AI</i>.
+inline: false
 ---
 
-I will be in the "Build on Generative AI" series of AWS in Twitch <a class="linktext" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/feed/update/urn:li:activity:7042529772945514496?utm_source=share&utm_medium=member_desktop"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+***
+
+Here's the recording:
+
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    video: "1770658398",
+    width: "100%",
+    height: "500"
+  });
+</script>
