@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-20 15:59:00-0400
-title: I was in the AWS weekly series <i>Build on Generative AI</i>.
+title: I joined the AWS weekly series <i>Build on Generative AI</i>.
 inline: false
 ---
 
@@ -18,7 +18,7 @@ Here's the recording:
 <!-- Create a Twitch.Player object. This will render within the placeholder div -->
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
-    video: "1770658398",
+    video: "1874381282",
     width: "100%",
     height: "500"
   });
