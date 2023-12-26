@@ -6,6 +6,7 @@ inline: false
 ---
 
 ***
+<img src="/assets/img/twitch_pic.png" alt="Build on Generative AI announcement" style="width:100%">
 
 Here's the recording:
 
