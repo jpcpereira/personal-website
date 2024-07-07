@@ -17,8 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Data Scientist at adidas in the Global Digital Data Science team in Amsterdam where I am responsible for the technical lead of two demand forecasting products. Prior to joining adidas, I completed my Engineering Doctorate (EngD) in Data Science at Eindhoven University of Technology, where I worked on projects for companies like ASML (2x), Van Lanschot, TE Connectivity, Heijmans, and FIOD. Before the EngD, I conducted deep learning research  on anomaly detection in time series data and completed my Master's and Bachelor's degree in Electrical & Computer Engineering at Instituto Superior Técnico (Portugal). Meanwhile, I was lucky to have spent a semester at Université Catholique de Louvain (Belgium).
-I am broadly interested in the field of machine learning and its endless applications and passionate about turning cutting-edge research into products.
+I am a Data Science Lead & Senior Data Scientist at adidas where I work on building machine learning products that automate content creation using language and vision models. Previously, I was the Technical Lead of the demand forecasting products for adidas' eCom channels. Prior to joining adidas, I completed my Engineering Doctorate (EngD) in Data Science at Eindhoven University of Technology and before that I conducted deep learning research on anomaly detection in time series data and completed my Master's and Bachelor's degree in Electrical & Computer Engineering at Instituto Superior Técnico (Portugal). I am broadly interested in the field of machine learning and its endless applications and passionate about turning cutting-edge research into highly impactful products.
 
 In my free time, I enjoy working out, meeting friends, traveling, and cooking new dishes.
 
