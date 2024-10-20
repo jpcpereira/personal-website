@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Data Scientist at adidas | EngD Data Science
+subtitle: Data Science Lead @ adidas | EngD Data Science
 
 profile:
   align: right
