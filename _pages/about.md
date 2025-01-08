@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Science Lead @ adidas | EngD Data Science
+subtitle: Data Science Lead @ adidas | Generative AI | EngD Data Science
 
 profile:
   align: right
@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Data Science Lead at adidas where I develop machine learning solutions in the Content Intelligence space that provide better experiences to millions of users across adidas .com and App. Previously, I was Tech Lead for demand forecasting products that enable better buying, planning, and product trading for adidas’ eCom. Prior to joining adidas, I obtained my Engineering Doctorate Degree in Data Science from Eindhoven University of Technology and before that I conducted applied deep learning research on time-series anomaly detection.
-I am passionate about machine learning and generative AI and enjoy turning cutting-edge research into highly impactful products.
+I'm a Data Science Lead at adidas where I build and scale machine learning solutions powered by multimodal LLMs that improve product discoverability and deliver personalized shopping experiences to millions of users across adidas .com and App.
+Previously, I was Technical Lead for our demand forecasting products that enable better buying, planning, and trading decisions throughout adidas’ eCom.
+Before joining adidas, I obtained my Engineering Doctorate degree in Data Science from Eindhoven University of Technology and conducted deep learning research on time-series anomaly detection back in Lisbon at IST.
+I'm deeply interested in machine learning and generative AI and enjoy turning cutting-edge AI research into highly impactful products that improve consumer experiences and unlock business potential.
 
-In my free time, I enjoy working out, writing blog posts, and travelling.
+Outside of work, I enjoy working out, travelling, or writing blog posts about the latest trends in AI.
