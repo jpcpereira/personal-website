@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Science Lead @ adidas | Generative AI | EngD Data Science
+subtitle: Data Science Lead @ adidas
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Amsterdam ❌❌❌</p>
+    <p>Amsterdam</p>
     <p>The Netherlands</p>
 
 news: true  # includes a list of news items
@@ -21,4 +21,4 @@ I'm a Data Science Lead at adidas where I build GenAI-based solutions that enabl
 
 Enjoy creating scalable machine learning products in the cloud. Love building a culture of innovation, technical excellence, and where people feel empowered to be the best version of themselves. Passionate about turning cutting-edge AI into impactful products that improve customer experiences.
 
-Outside of work, I enjoy working out, travelling, or writing blog posts about the latest trends in AI.
+Outside of work, I enjoy working out, travelling, and writing blog posts about the latest trends in AI.
