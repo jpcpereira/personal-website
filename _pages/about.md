@@ -6,8 +6,8 @@ subtitle: Data Science Lead @ adidas
 
 profile:
   align: right
-  image: prof_pic.jpeg
-  image_cicular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_cicular: true # crops the image to make it circular
   address: >
     <p>Amsterdam, The Netherlands</p>
 
